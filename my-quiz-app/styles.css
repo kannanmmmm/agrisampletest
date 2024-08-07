@@ -1,0 +1,14 @@
+#quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#questions {
+    margin: 20px 0;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
